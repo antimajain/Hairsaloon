@@ -1,0 +1,42 @@
+<style>
+html,p,h1,h{
+	padding:0px;
+	margin:0px;
+}
+aside,div,nav,article,html{
+	display:block;
+}
+html
+{
+	position:relative;
+}
+.head0{
+	height:200px;
+	width:100%;
+	color:red;
+	background-color:#3C9191;
+}
+.head1{
+	width:900 px;
+	left:200px;
+	position:absolute;	
+
+}
+.header{
+	background-color:#000035;
+	color:#FFF;
+	font-weight:500;
+	width:270px;
+	height:130px;
+	top:80px;
+	position:absolute;	
+	paddding:20px 10px;
+	text-align:center;
+	font-size:30px;
+	
+}
+.headt{
+	padding:25px 20px;	
+	
+}
+</style>
